@@ -68,6 +68,8 @@ SIH_PROJECT/
 - Test MSE (approximate):
   - XGBoost: ~2487
   - LightGBM: ~2462
+- **Final MSE on hidden test data:**  
+  **2306.95506**
 
 ---
 
